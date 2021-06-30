@@ -1,4 +1,4 @@
-# Hi, I am Daniel Cañadillas
+# Hi!, I'm Daniel Cañadillas
 
 ![Stats](https://github-readme-stats-anuraghazra1.vercel.app/api?username=kaecius&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_rank=true&&title_color=859900&bg_color=002934)
 
